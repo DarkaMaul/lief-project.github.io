@@ -9,5 +9,6 @@ var searchData=
   ['symbol_5fbase_5ftypes_6',['SYMBOL_BASE_TYPES',['../namespaceLIEF_1_1PE.html#a5d277795a4fa5b6b31502211fa4af1f7',1,'LIEF::PE']]],
   ['symbol_5fcomplex_5ftypes_7',['SYMBOL_COMPLEX_TYPES',['../namespaceLIEF_1_1PE.html#ad79f0792ac94cc4d9a359b8382c683d6',1,'LIEF::PE']]],
   ['symbol_5fsection_5fnumber_8',['SYMBOL_SECTION_NUMBER',['../namespaceLIEF_1_1PE.html#ace39029f959b70201e7e11de81097e15',1,'LIEF::PE']]],
-  ['symbol_5fstorage_5fclass_9',['SYMBOL_STORAGE_CLASS',['../namespaceLIEF_1_1PE.html#a748c76daa5c3b2c06e0476c6dd92ce53',1,'LIEF::PE']]]
+  ['symbol_5fstorage_5fclass_9',['SYMBOL_STORAGE_CLASS',['../namespaceLIEF_1_1PE.html#a748c76daa5c3b2c06e0476c6dd92ce53',1,'LIEF::PE']]],
+  ['sysreg_10',['SYSREG',['../namespaceLIEF_1_1assembly_1_1aarch64.html#ac89e102c24adfb406d0371ca7fc5b131',1,'LIEF::assembly::aarch64']]]
 ];
