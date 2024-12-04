@@ -141,7 +141,7 @@ to disassemble a :ref:`DWARF <extended-dwarf>` function.
 
         main = elf.debug_info.find_function("main")
 
-        for inst in .instructions:
+        for inst in main.instructions:
             print(inst)
 
 
